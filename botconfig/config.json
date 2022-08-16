@@ -1,0 +1,36 @@
+{
+  "token": "",
+  "prefix": "d!",
+  "ownerIDS": ["847710668005572610"],
+  "memer_api": "g5SOlSadRiK",
+  "status": {
+    "text": "dash.stromz.ml",
+    "text2": "d!help |  {usedcommands}",
+    "type": "PLAYING",
+    "url": "https://twitch.tv/milratoDiscordBot"
+  },
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "n1.lavalink.milrato.com",
+        "port": 10250,
+        "password": "discord.gg/milrato"
+      }
+    ]
+  },
+  "spotify": {
+    "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+    "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+  },
+  "settings": {
+    "leaveOnEmpty_Channel": {
+      "enabled": true,
+      "time_delay": 30000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": true,
+      "time_delay": 30000
+    },
+    "selfDeaf": true
+  }
+}
